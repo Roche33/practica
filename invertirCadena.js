@@ -6,4 +6,4 @@ function invertirCadena (texto){
     console.log(cadena)
 }
 
-invertirCadena("hola mundo") // "odnum aloh"
+invertirCadena("trimble") // "odnum aloh"
